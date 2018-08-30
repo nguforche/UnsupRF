@@ -9,3 +9,9 @@ by permuting true data. The proximities between observations in the true data is
 converted to a dissimilarity matrix and can be used by any clustering algorithm
 that accepts a dissimilarity matrix. Several routines for cluster validation and determination 
 of optimal number of clusters are also implemented. 
+
+# Get Started
+
+Install via devtools:
+
+devtools::install_github("nguforche/UnsupRF")
